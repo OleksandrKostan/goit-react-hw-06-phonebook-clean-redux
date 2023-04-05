@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/goit-react-hw-06-phonebook-clean-redux/static/css/main.c3d5249d.css",
+    "main.js": "/goit-react-hw-06-phonebook-clean-redux/static/js/main.bc10c90c.js",
+    "index.html": "/goit-react-hw-06-phonebook-clean-redux/index.html",
+    "main.c3d5249d.css.map": "/goit-react-hw-06-phonebook-clean-redux/static/css/main.c3d5249d.css.map",
+    "main.bc10c90c.js.map": "/goit-react-hw-06-phonebook-clean-redux/static/js/main.bc10c90c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3d5249d.css",
+    "static/js/main.bc10c90c.js"
+  ]
+}
